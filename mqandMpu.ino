@@ -4,8 +4,8 @@
 #include <Adafruit_MPU6050.h>
 #include <Adafruit_Sensor.h>
 
-const char* ssid = "Who-Dat_2.4";
-const char* password = "@class@object@18";
+const char* ssid = "----------";
+const char* password = "--------";
 const char* mqtt_server = "broker.emqx.io";
 const int mqtt_port = 1883;
 const char* mqtt_topic_pub = "testy";
